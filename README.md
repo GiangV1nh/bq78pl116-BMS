@@ -1,5 +1,4 @@
-# bq78pl116-BMS
-# 1. Thông số kỹ thuật
+# Thông số kỹ thuật
 - Số tế bào: 3
 - Loại tế bào: Li-Ion
 - Điện áp: 8.25V - 12.6V
@@ -8,3 +7,7 @@
 - Cân bằng chủ động
 - Dòng cân bằng: Khoảng 170mA
 - Giao tiếp: SMBus
+
+Mặt trên|Mặt dưới
+:-:|:-:
+![Alt-Text](https://github.com/GiangV1nh/bq78pl116-BMS/blob/main/h%C3%ACnh/top%20view.JPG)|![Alt-Text](https://github.com/GiangV1nh/bq78pl116-BMS/blob/main/h%C3%ACnh/bottom%20view.JPG)
