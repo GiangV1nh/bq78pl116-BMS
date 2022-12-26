@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BMS Schematic.SchDoc
+Record=SheetSymbol|SourceDocument=BMS Schematic.SchDoc|Designator=Page2|SchDesignator=Page2|FileName=bq78pl116|SymbolType=Normal|RawFileName=bq78pl116|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BMS Schematic.SchDoc|Designator=Page3|SchDesignator=Page3|FileName=Pack Disconnect MOSFETs|SymbolType=Normal|RawFileName=Pack Disconnect MOSFETs|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BMS Schematic.SchDoc|Designator=Page4|SchDesignator=Page4|FileName=PowerPump Circuitry|SymbolType=Normal|RawFileName=PowerPump Circuitry|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
