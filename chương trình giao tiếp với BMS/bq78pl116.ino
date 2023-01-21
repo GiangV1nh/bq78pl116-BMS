@@ -30,7 +30,8 @@ void writeSBData(void);
 //Các hàm dùng trong chế độ DFP
 void DFPModeEnable(void);
 void sendRequestDataFlashWrite(void);
-void Request(unsigned int*, bool);int Read(void);
+void Request(unsigned int*, bool);
+int Read(void);
 void Write(int);
 unsigned int Status(void);
 void readConfigurationRegister(void);
